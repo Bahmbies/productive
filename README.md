@@ -27,9 +27,9 @@ In planning for this project, I decided that I would first start by working on t
 - I want to stop the To Do from duplicating on the GET request once created
 
 ## Images
-![Images](https://imgur.com/a/nqRPESK)
+[Images](https://imgur.com/a/nqRPESK)
 ---
 
 #### ERD:
 
-![Productive X ERD](https://imgur.com/a/nqRPESK)
+[Productive X ERD](https://imgur.com/a/nqRPESK)
